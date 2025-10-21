@@ -20,7 +20,9 @@ This project demonstrates how to implement and train a simple Convolutional Neur
 
 
 ## 📈 Results
-Achieved [insert accuracy]% accuracy on [dataset name].
+Achieved 84.900% accuracy on [CIFAR-10].
+Achieved 51.750% accuracy on [CIFAR-100].
 
 ## 🔗 Links
-- [View Notebook on Kaggle]([your-kaggle-link-here](https://www.kaggle.com/code/syeddildarshah/simple-cnn-implementation-on-cifar-10-100))
+- [View Notebook on Kaggle](https://www.kaggle.com/code/syeddildarshah/simple-cnn-implementation-on-cifar-10-100)
+
